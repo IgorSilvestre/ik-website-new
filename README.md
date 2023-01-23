@@ -1,2 +1,2 @@
 # RVTTEP
-react-typescript-tailwind-eslint-prettier
+react-vite-typescript-tailwind-eslint-prettier
